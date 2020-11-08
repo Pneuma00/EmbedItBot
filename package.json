@@ -1,0 +1,12 @@
+{
+  "name": "EmbedItBot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/Pneuma714/EmbedItBot.git",
+  "author": "Pneuma <syca0714@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  }
+}
